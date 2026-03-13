@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "displayName": "Blog (Vite)",
+  "description": "Content blog with posts, tags, search, and reading time. React 19, Vite 6, Tailwind v4.",
+  "version": "2.0.0",
+  "framework": "vite",
+  "architecture": "fsd",
+  "tags": ["blog", "content", "writing", "markdown", "vite", "spa", "fsd", "react-19", "tailwind-v4"],
+  "requires": {
+    "layouts": ["topnav-layout"],
+    "widgets": ["footer"]
+  },
+  "npmDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.0",
+    "lucide-react": "^0.468.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.6.0",
+    "date-fns": "^4.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "typescript": "^5.7.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/vite": "^4.0.0"
+  }
+}

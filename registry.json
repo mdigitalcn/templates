@@ -1,0 +1,105 @@
+{
+  "version": "2.0.0",
+  "items": [
+    {
+      "name": "nextjs/saas",
+      "displayName": "SaaS Starter (Next.js)",
+      "description": "Landing + auth + dashboard + settings + billing. FSD, React 19, Next.js 15, Tailwind v4.",
+      "category": "nextjs",
+      "tags": ["saas", "dashboard", "auth", "stripe", "fsd", "nextjs"],
+      "path": "nextjs/saas",
+      "framework": "nextjs",
+      "architecture": "fsd"
+    },
+    {
+      "name": "nextjs/landing",
+      "displayName": "Landing Page (Next.js)",
+      "description": "Marketing landing with hero, features, pricing, testimonials. React 19, Next.js 15, Tailwind v4.",
+      "category": "nextjs",
+      "tags": ["landing", "marketing", "pricing", "fsd", "nextjs"],
+      "path": "nextjs/landing",
+      "framework": "nextjs",
+      "architecture": "fsd"
+    },
+    {
+      "name": "nextjs/commerce",
+      "displayName": "E-Commerce (Next.js)",
+      "description": "Storefront + cart + checkout + seller dashboard. FSD, React 19, Next.js 15, Tailwind v4.",
+      "category": "nextjs",
+      "tags": ["commerce", "ecommerce", "store", "stripe", "fsd", "nextjs"],
+      "path": "nextjs/commerce",
+      "framework": "nextjs",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/saas",
+      "displayName": "SaaS Starter (Vite)",
+      "description": "Landing + auth + dashboard + settings. FSD, React 19, Vite 6, Tailwind v4, React Router 7.",
+      "category": "vite",
+      "tags": ["saas", "dashboard", "auth", "vite", "spa", "fsd"],
+      "path": "vite/saas",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/landing",
+      "displayName": "Landing Page (Vite)",
+      "description": "Marketing landing SPA with hero, features, pricing, testimonials. React 19, Vite 6, Tailwind v4.",
+      "category": "vite",
+      "tags": ["landing", "marketing", "pricing", "vite", "spa", "fsd"],
+      "path": "vite/landing",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/commerce",
+      "displayName": "E-Commerce (Vite)",
+      "description": "Storefront SPA + cart + checkout + seller dashboard. React 19, Vite 6, Tailwind v4.",
+      "category": "vite",
+      "tags": ["commerce", "ecommerce", "store", "vite", "spa", "fsd"],
+      "path": "vite/commerce",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/dashboard",
+      "displayName": "Admin Dashboard (Vite)",
+      "description": "Internal admin panel: data tables, stats, user management, activity feed. React 19, Vite 6.",
+      "category": "vite",
+      "tags": ["dashboard", "admin", "crud", "data-table", "vite", "fsd"],
+      "path": "vite/dashboard",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/portfolio",
+      "displayName": "Portfolio (Vite)",
+      "description": "Personal/agency portfolio: projects showcase, about, contact form. React 19, Vite 6, Tailwind v4.",
+      "category": "vite",
+      "tags": ["portfolio", "personal", "agency", "projects", "vite", "fsd"],
+      "path": "vite/portfolio",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/blog",
+      "displayName": "Blog (Vite)",
+      "description": "Content blog with posts, tags, search, and reading time. React 19, Vite 6, Tailwind v4.",
+      "category": "vite",
+      "tags": ["blog", "content", "writing", "posts", "vite", "fsd"],
+      "path": "vite/blog",
+      "framework": "vite",
+      "architecture": "fsd"
+    },
+    {
+      "name": "vite/docs",
+      "displayName": "Documentation (Vite)",
+      "description": "Documentation site with sidebar nav, search, TOC, and code blocks. React 19, Vite 6, Tailwind v4.",
+      "category": "vite",
+      "tags": ["docs", "documentation", "knowledge-base", "vite", "fsd"],
+      "path": "vite/docs",
+      "framework": "vite",
+      "architecture": "fsd"
+    }
+  ]
+}
